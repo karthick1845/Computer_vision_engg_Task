@@ -37,5 +37,15 @@ pip install numpy
  i.e. the center pixel's RGB will increase by 50%, and the next pixels in x and y directions will be 49%. This goes on and on until the increase becomes 0 %.
  
  Result:Incomplete (I apologize for that,i try it,but not understand in properway.)
+ 
+ 
+ 
+ Answer to your questions:
+I expect 4-5 lakhs/yr.
+Immediately available.
+Yes,I am ready for relocate closer to our company.
+Inside India,i don't need visa.
+My proficiency in english would be Intermediate level.
+Yes,I am ready for relocating any location.
 
    
